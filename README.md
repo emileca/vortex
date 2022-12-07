@@ -23,7 +23,9 @@ vortex sert de dépôt unique des développements réalisés dans le cadre de l'
 ## Mention et crédits
 
 Responsables du projet : [Dr Pierre Bonnechere](https://uppsalauniversitet.academia.edu/pierreBonnechere), [Dr Gabriella Cursaru](https://umontreal.academia.edu/GabrielaCursaru) et [Lynn Kozak](https://mcgill.academia.edu/LynnKozak)
-Coordonateur : [Émile Caron]()
+
+Coordonateur : [Émile Caron](https://universityofmontreal.academia.edu/%C3%89mileCaron)
+
 Éditrices et Éditeurs : 
 - [Lucie Guillemin](https://umontreal.academia.edu/LucieGuillemin) (UdM)
 - [Romane Auger](https://paris-sorbonne.academia.edu/RomaneAuger) (Sorbonne, UdM, LBS)
