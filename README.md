@@ -18,9 +18,9 @@ Les [schemas TEI disponibles](https://github.com/emileca/vortex/tree/main/Schema
 
 ## Organisation du dépot git
 
-vortex sert de dépôt unique des développements réalisés dans le cadre de l'édition des textes du projet *Vortex*. Le dépôt est divisé en sous-dossiers correspondant aux auteurs anciens avec un dossier pour le texte en langue moderne et un dossier pour le texte en langue ancienne. Pour limiter les conflits, nous proposons à chaque éditrice et éditeur de ne pas travailler sur la branche main mais sur une branche nommée d'après son nom.
+<vortex> sert de dépôt unique des développements réalisés dans le cadre de l'édition des textes du projet *Vortex*. Le dépôt est divisé en sous-dossiers correspondant aux auteurs anciens avec un dossier pour le texte en langue moderne et un dossier pour le texte en langue ancienne. Pour limiter les conflits, nous proposons à chaque éditrice et éditeur de ne pas travailler sur la branche main mais sur une branche nommée d'après son nom.
 
-## Mention et crédits
+## Mentions et crédits
 
 Responsables du projet : [Dr Pierre Bonnechere](https://uppsalauniversitet.academia.edu/pierreBonnechere), [Dr Gabriella Cursaru](https://umontreal.academia.edu/GabrielaCursaru) et [Lynn Kozak](https://mcgill.academia.edu/LynnKozak)
 
@@ -56,9 +56,9 @@ The [available TEI schemas](https://github.com/emileca/vortex/tree/main/Schemas_
 
 ## Organization of the git repository
 
-vortex serves as a unique repository for the developments made in the context of the *Vortex* project's text edition. The repository is divided into subfolders corresponding to the ancient authors with a folder for the modern language text and a folder for the ancient language text. To limit conflicts, we suggest that each editor not work on the main branch but on a branch named after him/her.
+<vortex> serves as a unique repository for the developments made in the context of the *Vortex* project's text edition. The repository is divided into subfolders corresponding to the ancient authors with a folder for the modern language text and a folder for the ancient language text. To limit conflicts, we suggest that each editor not work on the main branch but on a branch named after him/her.
 
-## Credits and citation
+## Credits
 
 Project leaders: [Dr Pierre Bonnechere](https://uppsalauniversitet.academia.edu/pierreBonnechere), [Dr Gabriella Cursaru](https://umontreal.academia.edu/GabrielaCursaru) and [Lynn Kozak](https://mcgill.academia.edu/LynnKozak)
 
