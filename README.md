@@ -65,9 +65,9 @@ Project leaders: [Dr Pierre Bonnechere](https://uppsalauniversitet.academia.edu/
 Coordinator: [Émile Caron](https://universityofmontreal.academia.edu/%C3%89mileCaron)
 
 Editors: 
-- Lucie Guillemin](https://umontreal.academia.edu/LucieGuillemin) (UdM)
-- Romane Auger](https://paris-sorbonne.academia.edu/RomaneAuger) (Sorbonne, UdM, LBS)
+- [Lucie Guillemin](https://umontreal.academia.edu/LucieGuillemin) (UdM)
+- [Romane Auger](https://paris-sorbonne.academia.edu/RomaneAuger) (Sorbonne, UdM, LBS)
 - Tom Giles (McGill)
-- George Simon](https://independent.academia.edu/SimonsG) (UdM)
+- [George Simon](https://independent.academia.edu/SimonsG) (UdM)
 - Guillaume Boucher(UdM)
-- Maxime Guénette](https://umontreal.academia.edu/MaximeGu%C3%A9nette) (UdM)
+- [Maxime Guénette](https://umontreal.academia.edu/MaximeGu%C3%A9nette) (UdM)
