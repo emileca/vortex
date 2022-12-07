@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aryballe</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>https://imgur.com/VFK9ICJ</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Décors à écailles rouges et noirs. Gordons rouges,noirs et blancs. Illusion d'optique</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <p>Matière : <material>Céramique</material></p>
+         <p>Famille : Décorée</p>
+         <p>Technique : Géométrique</p>
+         <p>Forme : Aryballe</p>
+         <p>Peintre : <name>Inconnu</name></p>
+         <p>Lieu de fabrication : <placeName>Corinthe</placeName></p>
+         <p>Lieu de découverte : <placeName>Inconnu</placeName> </p>
+         <p> Datation : <date>-700/-650</date></p>
+         <p> Musée de provenance : <placeName type="city">Munich</placeName><placeName type="museum">Staatliche Antikensammlungen</placeName></p>
+
+         
+         <listBibl>
+	           <msDesc>
+	              <msIdentifier>
+	                 <repository>vortex</repository>
+               </msIdentifier>
+	           </msDesc>
+         </listBibl>
+      </body>
+  </text>
+</TEI>
