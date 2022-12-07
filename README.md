@@ -71,5 +71,3 @@ Editors:
 - George Simon](https://independent.academia.edu/SimonsG) (UdM)
 - Guillaume Boucher(UdM)
 - Maxime Guénette](https://umontreal.academia.edu/MaximeGu%C3%A9nette) (UdM)
-
-Translated with www.DeepL.com/Translator (free version)
