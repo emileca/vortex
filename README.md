@@ -16,9 +16,9 @@ Les [schemas TEI disponibles](https://github.com/emileca/vortex/tree/main/Schema
 - Pour les textes de type dramatique comme les pièces de théâtre ou les dialogues philosohiques : utilisez le schéma [drama](https://github.com/emileca/vortex/blob/main/Schemas_TEI/drama)
 - Pour les sources iconographique : utilisez le schéma [desc.images](https://github.com/emileca/vortex/blob/main/Schemas_TEI/desc.images) 
 
-## Organisation du dépot git
+## Organisation du dépot `git`
 
-<vortex> sert de dépôt unique des développements réalisés dans le cadre de l'édition des textes du projet *Vortex*. Le dépôt est divisé en sous-dossiers correspondant aux auteurs anciens avec un dossier pour le texte en langue moderne et un dossier pour le texte en langue ancienne. Pour limiter les conflits, nous proposons à chaque éditrice et éditeur de ne pas travailler sur la branche main mais sur une branche nommée d'après son nom.
+`vortex` sert de dépôt unique des développements réalisés dans le cadre de l'édition des textes du projet *Vortex*. Le dépôt est divisé en sous-dossiers correspondant aux auteurs anciens avec un dossier pour le texte en langue moderne et un dossier pour le texte en langue ancienne. Pour limiter les conflits, nous proposons à chaque éditrice et éditeur de ne pas travailler sur la branche main mais sur une branche nommée d'après son nom.
 
 ## Mentions et crédits
 
@@ -54,9 +54,9 @@ The [available TEI schemas](https://github.com/emileca/vortex/tree/main/Schemas_
 - For dramatic texts such as plays or philosophical dialogues: use the [drama](https://github.com/emileca/vortex/blob/main/Schemas_TEI/drama) scheme
 - For iconographic sources: use the schema [desc.images](https://github.com/emileca/vortex/blob/main/Schemas_TEI/desc.images) 
 
-## Organization of the git repository
+## Organization of the `git` repository
 
-<vortex> serves as a unique repository for the developments made in the context of the *Vortex* project's text edition. The repository is divided into subfolders corresponding to the ancient authors with a folder for the modern language text and a folder for the ancient language text. To limit conflicts, we suggest that each editor not work on the main branch but on a branch named after him/her.
+`vortex` serves as a unique repository for the developments made in the context of the *Vortex* project's text edition. The repository is divided into subfolders corresponding to the ancient authors with a folder for the modern language text and a folder for the ancient language text. To limit conflicts, we suggest that each editor not work on the main branch but on a branch named after him/her.
 
 ## Credits
 
