@@ -1,4 +1,4 @@
-# Création d'une base de données en 5 étapes
+# Création d'une base de données en 5 étapes :
 
 1. Création d'un `git` pour le dépot des textes et des images.
 2. Création des schémas TEI (`.odd`) pour le balisage.
