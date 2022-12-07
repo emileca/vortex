@@ -42,7 +42,7 @@ Coordonateur : [Émile Caron](https://universityofmontreal.academia.edu/%C3%89mi
 
 This Git repo contains all the texts and iconographic sources tagged in XML TEI used for the research of the multidisciplinary project *Vortex*, led at the Université de Montréal and McGill University by Dr. Pierre Bonnechere, Dr. Gabriela Cursaru and Dr. Lynn Kozak.
 
-**The texts contained in this repository are the property of the editors of the project.
+**The texts contained in this repository are the property of the editors of the project.**
 
 ## Use of TEI
 
