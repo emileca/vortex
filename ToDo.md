@@ -1,4 +1,4 @@
-# Les Étapes de notre projet
+# Création d'une base de données en 5 étapes
 
 1. Création d'un GIT pour le dépot des textes et des images.
 2. Création des schémas TEI (.odd) pour le balisage.
