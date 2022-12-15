@@ -12,7 +12,10 @@
             <p>https://imgur.com/gPTUdxz</p>
          </publicationStmt>
          <sourceDesc>
-            <p> Décor en escalier créant une illusion d'optique. Frise avec <objectName type="animal">taureau</objectName>,<objectName type="animal">cheval</objectName> et <objectName type="humain">cavalier</objectName>. </p>
+
+            <p> Décor en escalier créant une illusion d'optique. Frise avec <objectName type="animal">taureau</objectName>,<objectName type="animal">cheval</objectName> et <personName type="humain">cavalier</personName>. </p>
+        <p> Décor en escalier créant une illusion d'optique. Frise avec <objectName type="animal">taureau</objectName>,<objectName type="animal">cheval</objectName> et <objectName type="humain">cavalier</objectName>. </p>
+main
          </sourceDesc>
       </fileDesc>
   </teiHeader>
