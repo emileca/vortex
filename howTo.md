@@ -12,7 +12,9 @@ Vérifiez que le dossier est bien sauvegardé dans un endroit dont vous avez l'a
 
 #Débuter le balisage
 1. L'ajout des balise est le coeur de notre travail. Des balises non-conformes aurait pour conséquance la perte des valeurs de votre textes puisque la base de donnée ne serait pas cappable d'en faire la lecture.
-2. Sur votre document, vous devriez avoir d'afficher les lignes suivantes : ``` <?xml version="1.0" encoding="UTF-8"?>
+2. Sur votre document, vous devriez avoir d'afficher les lignes suivantes : 
+``` 
+<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
@@ -35,4 +37,5 @@ Vérifiez que le dossier est bien sauvegardé dans un endroit dont vous avez l'a
          <p>Some text here.</p>
       </body>
   </text>
-</TEI> ```
+</TEI> 
+```
