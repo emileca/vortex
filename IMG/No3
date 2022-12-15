@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_ms.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title mettre le titre de l'image</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>lien HTML de l'image</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p> <objectName type="Ronde">Ronde</objectName> <objectName type="Homme">Homme</objectName> et de <objectName type="Femme">Femme</objectName> avec <objectName type="illusion">illusion d'optique</objectName>
+            </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+
+         <p>Matière : <material>Céramique</material></p>
+         <p>Famille :Décorée </p>
+         <p>Technique :Géométrique </p>
+         <p>Forme :Coupe </p>
+         <p>Peintre : <name>Atelier Burly</name></p>
+         <p> Lieu de fabrication : <placeName>Athènes</placeName></p>
+         <p>Lieu de découverte : <placeName>Athènes</placeName>
+         </p>
+         <p> Datation : <date>-735/-720</date></p>
+
+         <p> Musée de provenance : <placeName type="city">Athènes</placeName><placeName
+               type="museum">Musée archéologique national d'Athènes</placeName><idno>874</idno></p>
+         <p> LIMC : <ref>https://weblimc.org/page/monument/2117388</ref></p>
+         <p>Numéro Beazley :<idno>1012549</idno></p>
+         <p> Bibliographie :
+               <ref>https://www.beazley.ox.ac.uk/XDB/ASP/recordDetails.asp?id=E863ECF8-EA99-4491-AAC7-AD6799681684</ref></p>
+
+         <listBibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository>vortex</repository>
+               </msIdentifier>
+            </msDesc>
+         </listBibl>
+      </body>
+   </text>
+</TEI>
