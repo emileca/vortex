@@ -4,7 +4,7 @@
 
 Ce repo Git contient tout les textes et sources iconographiques balisés en XML TEI servant à la recherche du projet pluridisciplinaire *Vortex*, mené à l'Université de Montréal et à l'Université McGill par le Dr Pierre Bonnechere, la Dre Gabriela Cursaru et la Dre Lynn Kozak.
 
-Les textes contenus dans ce repositoire sont la propriété des éditeurs et éditrices du projet.
+Les textes contenus dans ce repositoire sont la propriété des édit.rice.eur.s du projet.
 
 ## Utilisation de la TEI
 
